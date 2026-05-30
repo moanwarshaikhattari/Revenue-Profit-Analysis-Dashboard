@@ -27,10 +27,10 @@ The dashboard helps business stakeholders monitor performance, identify profitab
 - DAX
 ---
 ## Dashboard Screenshots
-### Dashboard Overview
-![Dashboard](Screenshots/Dashboard_Overview_1.png)
-### Product & Region Analysis
-![Dashboard](Screenshots/Dashboard_Overview_2.png)
+## Dashboard Overview
+![Dashboard](Dashboard_Overview_1.png)
+## Product & Region Analysis
+![Dashboard](Dashboard_Overview_2.png)
 
 ---
 ## Business Insights
