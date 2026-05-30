@@ -52,6 +52,5 @@ The dashboard helps business stakeholders monitor performance, identify profitab
 ---
 ## Author
 Anwar Shaikh
-
 ---
 Data Analyst | SQL | Excel | Power BI | Python
